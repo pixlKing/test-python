@@ -1,0 +1,269 @@
+CURRICULUM VITAE
+ARIEL M. BEDNAR
+
+DATOS PERSONALES
+Nombre y Apellido: Ariel Marcelo Bednar
+Celular: 15 6537 0874 
+Dirección: Anasagasti 2006 3D - CABA
+Fecha de Nacimiento: 04/12/1986
+Edad: 30 años / Nacionalidad: Argentino 
+DNI: 32.821.320 / CUIL: 20-32821320-7
+Portfolio: http://www.arielbednar.com.ar
+E-mail: contacto@arielbednar.com.ar 
+
+PROYECTOS
+FREE LANCE  A+B  -  ARQUITECTO EMANUEL TARZIA
+Desarrollo y diseño del sitio autoadministrable en el CMS Wordpress: http://www.emanueltarzia.com.ar
+
+FREE LANCE  A+B  -  INGENIERÍA BERCE
+Desarrollo y diseño del sitio autoadministrable en el CMS Wordpress: http://www.ingenieriaberce.com.ar
+
+FREE LANCE  A+B  -  NUCLEO MARKETING
+Desarrollo y diseño del sitio autoadministrable en el CMS Wordpress: http://www.nucleomarketing.com 
+
+FREE LANCE  A+B  - PC FOTOGRAFÍA + VIDEO
+Desarrollo y diseño del sitio autoadministrable en el CMS Wordpress: http://www.pcareyfotografias.com.ar
+
+FREE LANCE  A+B  - ESCRIBIENDO A PARÍS
+Desarrollo del sitio web de Escribiendo a París - Indumentaria y Accesorios para Bebés.
+Utilización de HTML5 / PHP con Cascading Style Sheets: http://www.escribiendoaparis.com.ar
+
+FREE LANCE  A+B - BLUE SWAN
+Desarrollo y diseño del sitio web utilizando HTML5 y Cascading Style Sheets: http://www.blueswan.com.ar
+
+FREE LANCE  A+B - CONSTRUCTORA PUELCHE
+Diseño  de  la  marca.  Tarjetas  personales.  Folletería.  Página  en  Facebook.  Diseño  del  sitio  Autoadministrable  en 
+Wordpress. http://www.constructorapuelche.com.ar
+
+FREE LANCE  A+B - ADMINISTRACIÓN TEIXIDO
+Desarrollo  y  diseño  de  sitio  web  para  Administradora  de  Consorcios  Teixidó.  http://www.admteixido.com.ar 
+Maquetado por medio de HTML5 y CSS3. Aplicaciones de JQuery. Formularios de presupuesto y de contacto con PHP.
+
+FREE LANCE  A+B  - FAVER PROPIEDADES
+Diseño y desarrollo del sitio web Inmobiliario: http://www.faverpropiedades.com.ar
+Maquetado por medio de HTML y CSS. Aplicación de JQuery UI.
+Actualizaciones mensuales.
+
+Pag. 1
+
+                  
+
+EXPERIENCIA LABORAL
+CONSEJO NACIONAL DE COORDINACION DE POLITICAS SOCIALES
+Desarrollador  Web  
+    MARZO 2014 / ACTUALIDAD
+Responsable del desarrollo y la maquetación de los sitios del organismo aplicando tecnologías HTML5 mediante hojas 
+de estilos ( CSS3 ). Javascript / JQuery / AJAX.
+Programación de sistemas para los distintos organismos del Consejo Nacional de Coordinación de Políticas Sociales, 
+mediante lenguaje PHP. Interacción con bases de datos MySQL. Modificación de sistemas desarrollados. 
+Creación de sitios web compatibles para ingresar desde cualquier tipo de dispositivos ( diseño responsivo ) y validados 
+por la W3C ( World Wide Web Consortium ).  Conocimientos en accesibilidad web.
+Instalación y configuración de servidores Apache. Manejo de Linux, distribución Ubuntu.
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+AB - DISEÑO + DESARROLLO WEB
+Diseñador y Desarrollo Web 
+        SEPTIEMBRE 2013 / ACTUALIDAD
+ 
+Fundador y Director en A+B. Desarrollo de sitios web y sistemas a medida. Programación en PHP interactuando con 
+bases  de  datos  MySQL.  Sitios  autoadministrables.  Utilización  de  Framework  Bootstrap  /  Skeleton.  CMS  Wordpress. 
+Servicio de Diseño gráfico ( identidad visual, folletería, tarjetas personales, packaging  y POP ).
+
+  
+
+ 
+
+ 
+
+ 
+
+MICROENVASES
+                   JUNIO 2009 / AGOSTO 2013
+Encargado de Producción Gráfica 
+Armado de originales para primeras marcas. Diseño gráfico de exhibidores para punto de venta y packaging. Criterio 
+estético. Retoque de imágenes. Supervisión de píe de máquina. Preparación de archivos para que salgan óptimos en 
+impresión en Flexografía y Oﬀset. Trato con clientes. Atención a proveedores. Experiencia en la industria gráfica.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORIGINAL GRAFICA
+Operador / Diseñador Gráfico 
+  FEBRERO 2008 / JUNIO 2009
+Diseño y armado de originales. Retoque de imágenes, manejo de filmadoras y reveladoras gráficas. Bajada de películas 
+gráficas. Conocimientos en preimpresión.
+
+                 
+
+               
+
+ 
+
+ 
+
+PRINTEAR
+          NOVIEMBRE 2007 / ENERO 2008
+Operador 
+Tareas generales de un centro de copiado ( trato con el público, diseño,  fotocopiadoras, manejo de plotter, scanneos ).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANCO PUBLICITARIO
+Diseñador Gráfico / Web 
+              ENERO 2006 / FEBRERO 2007
+Diseño de avisos clasificados y agrupados para los diferentes medios del país (Clarín, La Nación, La voz del Interior, etc). 
+Conocimientos en publicidad gráfica.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESTUDIOS
+TERCIARIO
+Escuela de Arte Multimedial Da Vinci
+Diseñador Multimedia 
+Recibido en Marzo 2011
+
+SECUNDARIA
+Instituto Summa 
+Bachiller con orientación en Economía
+Recibido en Diciembre 2004
+
+Pag. 2
+
+MANEJO DE SOFTWARE
+S HTML5 / Senior
+
+O Suite Adobe
+
+E
+J
+A
+U
+G
+N
+E
+L
+
+CSS3 / Senior
+PHP / Semi Senior
+Ajax  / Semi Senior
+JQuery / Semi Senior
+
+C
+I
+F
+A
+R
+G
+
+Illustrator / Experto
+Photoshop / Avanzado
+Flash / Intermedio
+After Eﬀects / Junior
+Premiere / Junior
+
+ 
+
+S MySQL / Semi Senior
+O
+T
+A
+D
+E
+D
+E
+S
+A
+B
+
+ 
+
+O Linux Ubuntu
+
+Windows 
+Adobe Dreamweaver
+Apache
+NetBeans
+Text Sublime
+
+ 
+
+ 
+
+ 
+
+.
+S
+Y
+B
+E
+W
+S
+A
+T
+N
+E
+I
+M
+A
+R
+R
+E
+H
+
+CURSOS REALIZADOS
+Educación IT - PHP Orientado a Objetos - 12 HS.
+Educación IT - Introducción al Paradigma de Objetos - 9 HS.
+Educación IT - Programación en PHP y MySQL. 40 HS.
+Educación IT - Introducción a la base de datos y SQL. 12 HS.
+Educación IT - JQuery para Diseñadores. 15 HS.
+Educacion IT - Maquetado de CSS y DIVs. 18 HS.
+Centro Ricardo Rojas - Introducción a la Administración de Redes. 40 HS.
+
+IDIOMA
+INGLES
+Comprensión: Bueno. Oral: Regular. Escritura: Regular.
+
+REFERENCIAS
+Solicitarlas en caso que se requieran.
+
+Pag. 3
+
+

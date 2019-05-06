@@ -1,0 +1,78 @@
+Ivan Nicolás Puszkiel
+SAPUI5 Developer en Accenture Argentina
+ghorkovian@hotmail.com
+
+Summary
+
+N/A
+
+Experience
+SAPUI5 Developer at Accenture Argentina
+febrero de 2017  -  Present
+
+SAPUI5 Development using SAP Webide and Eclipse.
+Coding in Javascript, XML, HTML. Data mocking in JSON and creation of mock servers.
+Development under Agile methodologies, using Bitbucket GIT repository and JIRA for stories and bug
+ tracking.
+Interaction with SAP and third party interfaces.
+Deployment and debugging of hybrid apps in iOS using Cordova/Phonegap. 
+
+Android Developer
+diciembre de 2015  -  Present
+
+Desarrollo de aplicaciones en Android, implementación de ORMs y queries en SQLite, diseño de vistas.
+ Desarrollo en API 17 en adelante.
+
+SAP - ABAP Senior Programmer at Accenture
+febrero de 2017  -  Present
+
+Resolución de incidentes con equipos de analistas funcionales, monitoreo de jobs en SAP usando el mismo o
+ el sistema Tivoli, desarrollo de requerimientos menores a 16 horas, consultoría técnica en lenguaje ABAP a
+ distintos equipos, administración de incidentes con la herramienta BMC ITSM.
+Desarrollo de requerimientos y documentación de los mismos (Unit Tests, Peer Reviews, creación de la
+ documentación técnica a partir de la documentación funcional). Modificaciones de cliente a SAP mediante
+ user exits, BADI's y Enhancement Points. Creación de reportes usando ALVs (tanto convencionales como
+ Orientado a Objetos). Selecciones a múltiples tablas usando Joins.
+
+SAP S/4 HANA Developer at Accenture
+julio de 2016  -  octubre de 2016 (4 meses)
+
+Desarrollo en S/4 HANA y SAP UI5/FIORI de un nuevo sistema de importante cliente multinacional.
+ Programación en Java usando Eclipse y SAP WEB IDE. Programación en JavaScript/XML/HTML.
+ Desarrollo en los módulos MM, SD, FI,  CO, PS, PM y AM.
+
+SAP - ABAP Programador Trainee at Accenture
+
+Page 1
+
+julio de 2011  -  septiembre de 2011 (3 meses)
+
+Resolución de incidentes con equipos de analistas funcionales, monitoreo de jobs en SAP usando el mismo
+ o el sistema Tivoli, desarrollo de requerimientos menores a 16 horas, administración de incidentes con la
+ herramienta BMC ITSM.
+
+Becario en Investigación at Universidad Tecnologica Nacional
+abril de 2010  -  julio de 2011 (1 año 4 meses)
+
+Becado en el LINSI (Laboratorio en Innovaciones en Sistemas de Información), continuando proyecto de
+ display de 7 segmentos que mostraría mensajes enviados por SMS y programado en C.
+
+Ayudante Ad Honorem en la materia "Algoritmos y estructuras de datos" at Universidad Tecnologica
+Nacional
+abril de 2007  -  diciembre de 2009 (2 años 9 meses)
+
+Education
+Universidad Tecnológica Nacional
+2007 - 2012
+
+Page 2
+
+Ivan Nicolás Puszkiel
+SAPUI5 Developer en Accenture Argentina
+ghorkovian@hotmail.com
+
+Contact Ivan Nicolás on LinkedIn
+
+Page 3
+
+

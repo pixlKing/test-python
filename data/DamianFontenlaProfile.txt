@@ -1,0 +1,81 @@
+Damian Fontenla
+FullStack Developer
+dami.fontenla@gmail.com
+
+Summary
+System engineer highly creative and constantly looking for innovation and improvement. Passionate
+ about new technological challenges that arise and the improvement that can deliver our work solving
+ problems for users and society.
+
+Always proactive and motivated to give the best of myself
+
+Experience
+FullStack Developer at Despegar.com
+enero de 2015  -  Present
+
+Back-end/Front-end Developer, application responsible to model the business and integration of
+ many car rental agencies to the company platform.
+
+Using techs like. Jetty & Java 8, Spring, Hibernate, MySQL, Javascript, AngularJS, Angular 2,
+ Bootstrap, Gulp, Bower, MongoDB, Webpack.
+
+Migration AngularJS to Angular 2.
+
+Tools (measure, report, communication): New relic, Jenkins, Google Analytics, Jmeter, Hotjar.
+
+Technology Entrepreneur
+junio de 2016  -  Present
+
+Personal development in progress, used to play and test different technologies, techniques of
+ analysis and development.
+
+Media web application, with the aim of showing different content of the most important media in my
+ country and South America region. Generating themes with different media approachs.
+
+http://noticiarme.com.ar/
+
+Developer at Epidata
+diciembre de 2012  -  enero de 2015 (2 años 2 meses)
+
+Page 1
+
+Back-End/ Front-End Developer, i was part of many development teams working (Java and
+ Javascript projects). Taking part of the design, estimation, implementation and task delegation.
+ Working on both new and existing productive projects.
+Using techs like, Java, Weka, Javascrpt, JQuery, JAX-RS, JAX-WS, Spring Core, Hibernate, JBPN,
+ Maven3, JBOSS4, SVN, Struts2, GoogleMaps, JSF, Jenkins, Sonar,
+
+Developer at Clínica Modelo Lanús
+abril de 2013  -  septiembre de 2013 (6 meses)
+
+Development to display information from different systems and get a customized output. Performing
+ analysis, design and implementation of the application.
+
+Programmer Analyst at Cognizant Technology Solutions
+marzo de 2012  -  enero de 2013 (11 meses)
+
+I was part of a java development team (backend). making unit and functional tests and application
+ refactors.
+Using techs like Java, CFX, Spring, JBehave, Guava, Maven2, Tomcat, Jenkins, Sonar.
+
+QA Analyst at Southworks
+marzo de 2011  -  enero de 2012 (11 meses)
+
+QA Analyst of several projects, preparing and executing test cases and performing the
+ corresponding documentation.
+
+Education
+UTN FRBA
+Ingeniería en Sistemas de información, Ingeniería de sistemas, 2007 - 2013
+
+Page 2
+
+Damian Fontenla
+FullStack Developer
+dami.fontenla@gmail.com
+
+Contact Damian on LinkedIn
+
+Page 3
+
+
