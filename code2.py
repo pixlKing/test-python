@@ -1,62 +1,33 @@
-data={
-	0:{
-		"name": "Matias",
-		"skills": "HTML",
-		"count": 5
-	},
-	1:{
-		"name": "Roberto",
-		"skills": "CSS",
-		"count": 10
-	},
-	2:{
-		"name": "Mica",
-		"skills": "JS",
-		"count": 2
-	},
-	3:{
-		"name": "Matias",
-		"skills": "CSS",
-		"count": 2
-	}
+
+# Create dictionary
+dictionary = ['HTML','CSS','JS']
+
+# Define empty object to use later for graphic
+OBJ = {
+	'name':[],
+	'skills':[]
 }
 
-# Create Empty CSV
-file="/content/drive/My Drive/result/result4.csv"
-csv=open(file, "w")
-headersTitles="index, name, skills, count \n"
-csv.write(headersTitles)
+def CleanFileNames(file):
+	return file.split('.')[0].lower()
 
-# Fill rows for CSV
-for i in data.keys():
+# Read all source data files
+for filename in os.listdir('/content/drive/My Drive/resume'):
+	if filename.endswith('.txt'):
+		cleanFileNames=CleanFileNames(filename)
 
-	name 	= data[i]['name']
-	skills= data[i]['skills']
-	count   = data[i]['count']
-	filas   = str(i) + "," + name + "," + skills + "," + str(count) + "\n"
+		with open(os.path.join('/content/drive/My Drive/resume', filename)) as searchfile:
+			for line in searchfile:		# For each line of the source files
+				for term in dictionary:	# For each term from dictionary in each line
+					if term in line:
+						OBJ['name'].append(cleanFileNames)
+						OBJ['skills'].append(term)
 
-	csv.write(filas)
-
-# Read CSV to create dataFrame for graphic
-datos=pd.read_csv(file)
-df=pd.DataFrame({
-    'name':['Ana','Braulio','Carlos','Ana','Ana'],
-    'skills':['HTML','CSS','JS','CSS','CSS'],
-    'count':[1,1,1,1,1]
-})
+# Create dataFrame for graphic
+df=pd.DataFrame(OBJ)
 print(df)
 
 # Render graphic
-df.groupby(['name','skills'])['count'].size().unstack().plot(kind='bar',stacked=True, title='Skills')
+df.groupby(['name','skills']).size().unstack().plot(kind='bar',stacked=True, title='Skills')
 plt.ylabel('Count')
 plt.show()
-
-# df.plot(kind='bar', title='Skills')
-
-
-# {
-#     'index':[0,1,2],
-#     'name':['Ana','Braulio','Carlos'],
-#     'skills':['HTML','CSS','JS'],
-#     'count':[20,10,50]
-# }
