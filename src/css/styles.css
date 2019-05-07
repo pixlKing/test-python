@@ -1,0 +1,55 @@
+/* VARS */
+:root {
+	/* Colors */
+	--color-primary: #1976d2;
+	--color-text: #333333;
+
+	--radius: 5px;
+}
+/* Simple reset */
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cont {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.box-config {
+	background: var(--color-primary);
+	border-radius: var(--radius);
+	color: white;
+	padding: 50px 10px;
+}
+.box-config label {
+	display: block;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	max-width: 320px;
+}
+.box-config label span {
+	display: block;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.box-config input {
+	font-size: 15px;
+	max-width: 320px;
+	padding: 12px 0;
+	width: 100%;
+}
+.box-config select {
+	border-radius: var(--radius);
+	border: 0;
+	color: var(--color-text);
+	font-size: 20px;
+	max-width: 320px;
+	padding: 10px;
+	width: 100%;
+}
