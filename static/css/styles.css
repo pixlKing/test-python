@@ -4,7 +4,7 @@
 	--color-primary: #1976d2;
 	--color-text: #333333;
 
-	--radius: 5px;
+	--radius: 3px;
 }
 /* Simple reset */
 * {
@@ -14,7 +14,9 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 }
-
+img {
+	max-width: 100%;
+}
 .cont {
 	max-width: 800px;
 	margin: 0 auto;
@@ -56,3 +58,19 @@ body {
 .result {
 	text-align: center;
 }
+/* BUTTONS */
+.btn {
+	background: white;
+	border: none;
+	border-radius: var(--radius);
+	color: var(--color-text);
+	cursor: pointer;
+	display: inline-block;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 16px;
+	text-transform: uppercase;
+	outline: 0;
+}
+/* UTILITIES */
+.bg-white {}

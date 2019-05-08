@@ -3,22 +3,26 @@
 <head>
 	<title>Data Rekognizr</title>
 	<meta charset="utf-8" />
+	<link rel="shortcut icon" type="image/x-icon" href="../static/images/favicon.ico"/>
 	<script type="text/javascript" src="{{ url_for('static', filename='js/jquery.js') }}"></script>
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
 	<div class="main">
 		<div class="cont">
-			<div class="box-config">
+			<form method="POST" name="form-dic" class="box-config" dic="{{ dictionary }}">
 				<label>
 					<span>Select dictionary:</span>
-					<select>
+					<select id="dic-select" name="dictionary">
 						<option value="frontend">Frontend</option>
 						<option value="backend">Backend</option>
 						<option value="database">Data Base</option>
 					</select>
 				</label>
-			</div>
+				<label>
+					<button class="btn" type="submit">Submit</button>
+				</label>
+			</form>
 			<div class="result">
 				<img src="{{ url_for('static', filename='images/plot.png') }}" />
 			</div>
