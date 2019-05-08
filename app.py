@@ -39,7 +39,7 @@ print(df)
 # Render graphic
 df.groupby(['name','skills']).size().unstack().plot(kind='bar',stacked=True, title='Skills')
 plt.ylabel('Count')
-plt.savefig('./static/images/plot.png')
+plt.savefig('./static/images/plot.png', bbox_inches='tight')
 #plt.show()
 
 
