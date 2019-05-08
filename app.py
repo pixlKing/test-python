@@ -3,6 +3,9 @@ from os import listdir
 from os.path import isfile, join
 import pandas as pd
 import matplotlib.pyplot as plt
+from flask import Flask, render_template
+app = Flask(__name__)
+
 
 
 # Create dictionary
@@ -38,3 +41,13 @@ df.groupby(['name','skills']).size().unstack().plot(kind='bar',stacked=True, tit
 plt.ylabel('Count')
 plt.savefig('./static/images/plot.png')
 #plt.show()
+
+
+
+###### ROUTES ######
+@app.route('/')
+def index():
+   return render_template('index.html')
+
+if __name__ == '__main__':
+   app.run(debug = True)
